@@ -12,3 +12,5 @@ console.log(Math.sqrt(16));
 console.log(Math.max(20,21, 26)); 
 console.log(Math.min(26,26,28)); 
 console.log(Math.pow(2,2)); 
+let a = -50; 
+console.log(Math.abs(a)); 
